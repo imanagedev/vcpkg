@@ -1,4 +1,4 @@
-node('work-server') {
+node('atlas-windows') {
 	try {
 		notify('warning', "STARTED")
 			
